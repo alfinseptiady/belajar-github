@@ -3,3 +3,4 @@ Perkembangan Belajar
 - belajar react.js
 - belajar memahami framework next.js
 - belajar android
+- belajar flutter 
