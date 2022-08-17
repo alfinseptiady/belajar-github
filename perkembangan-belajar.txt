@@ -1,0 +1,4 @@
+Perkembangan Belajar
+- belajar javascript
+- belajar react.js
+- belajar memahami framework next.js
